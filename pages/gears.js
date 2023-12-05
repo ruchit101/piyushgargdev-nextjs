@@ -15,7 +15,7 @@ export default function Gears() {
         <Row>
           {gears.map((item) => (
             <Col
-              style={{ margin: "11px 0px" }}
+              style={{ margin: "12px 0px" }}
               key={item.id}
               lg="4"
               md="4"
