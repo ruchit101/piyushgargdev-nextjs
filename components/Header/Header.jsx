@@ -91,7 +91,7 @@ const Header = () => {
           <div style={{ cursor: "pointer" }} className={`${classes.logo}`}>
             <Link aria-label="Home Page" href="/">
               <h1>
-                <span>P</span>iyush <span>G</span>arg
+                <span>R</span>uchit <span>B</span>agade
               </h1>
             </Link>
           </div>
